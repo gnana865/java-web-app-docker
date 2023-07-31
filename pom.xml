@@ -24,7 +24,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.144.250.19:8080/sonarqube-webhook/</sonar.host.url>
+		<sonar.host.url>http://3.144.233.57:9000/</sonar.host.url>
 		<sonar.login>8b1c1ed2b6f3fd228cc7c00d8c811d5e9fcb08d7</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
